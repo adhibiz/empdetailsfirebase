@@ -62,7 +62,7 @@ public class Emp {
 }
 ```
 ### MainActivity
-```
+```java
 package com.example.ex_01_realtimedatabase;
 
 import android.os.Bundle;
