@@ -39,7 +39,7 @@ Registeration Number :
 <uses-permission android:name="android.permission.INTERNET" />
 ```
 ### Emp.class
-```
+```java
 package com.example.ex_01_realtimedatabase;
 
 import com.google.firebase.database.IgnoreExtraProperties;
